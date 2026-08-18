@@ -1,8 +1,4 @@
-distrobox enter
-sudo dnf install -y can-utils
-go mod init go-can-sim
-go get golang.org/x/sys/unix
-🏎️ Simulação de Telemetria Automotiva (CAN Bus) com Go e Linux
+
 
 Introdução
 --------
